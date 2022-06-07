@@ -8,7 +8,7 @@
         "I hope you're having a nice day!",
         "And I'm glad you found your way here...",
         "Feel free to browse through my work.",
-        "Oh, and big shoutout to @khanhtncva for the portfolio inspo.",
+        "Oh, and big shoutout to @khanhtncva for the portfolio design template.",
         "See you around! 😊",
     ];
 
