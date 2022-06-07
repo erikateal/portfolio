@@ -3,7 +3,7 @@
     let rotatingTextArray = [
         "Software Engineer.",
         "Lifelong Learner.",
-        "Boba Tea Connoisseur.",
+        "Boba Tea Connoisseur."
     ];
     
     // Change the duration of the each cycle. Set this value to 0 to disable it. 

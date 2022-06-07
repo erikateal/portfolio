@@ -146,6 +146,7 @@ main, .linkTree {
     animation: rotatingText 8s infinite ease-out;
     left: 50%;
     transform: translateX(-50%);
+    width: fit-content;
 }
 
 .modularCard {
@@ -388,6 +389,7 @@ main, .linkTree {
     .rotatingTextOverlay {
         transform: none;
         left: 0;
+        /* width: fit-content; */
     }
 
     .mainIcon {
